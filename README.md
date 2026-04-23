@@ -33,19 +33,100 @@ Here are some of the contests I've participated in and my placements:
 | Defiapp | Cantina  | 17th | 1 H , 2 M  |
 | PlazaFinance | Sherlock  | 13th | 1 H |
 
-## Private Engagements
-
-| Protocol | Worked with | Date | Report |
-|----------|-------------|------|--------|
-| **Opinion** | [![Pashov](https://img.shields.io/badge/Pashov-00FF00?style=flat&logoColor=white)](https://www.pashov.com/process) | Mar 2026 | Private |
-| **Gemint** | [![Pashov](https://img.shields.io/badge/Pashov-00FF00?style=flat&logoColor=white)](https://www.pashov.com/process) | Mar 2026 | Private |
-| **Panoptic** | [![Panoptic](https://img.shields.io/badge/Panoptic-6a1bf5?style=flat&logoColor=white)](https://panoptic.xyz/) | Mar 2026 | [Report PDF](https://github.com/Valves-Sec/reports/blob/main/Panoptic.pdf) |
-| **UniVoucher** | [![UniVoucher](https://img.shields.io/badge/UniVoucher-6566e8?style=flat&logoColor=purple)](https://univoucher.com/) | Mar 2026 | [Report PDF](https://github.com/Valves-Sec/reports/blob/main/UniVaucher.pdf) |
-| **SendToEmail** | [![SendToEmail](https://img.shields.io/badge/SendToEmail-5962ff?style=flat&logoColor=purple)](https://sendtoemail.io/) | Mar 2026 | [Report PDF](https://github.com/Valves-Sec/reports/blob/main/SendToEmail.pdf) |
-| **Panoptic** | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com) | Feb 2026 | Private |
-| **Morpheus** | [![Morpheus](https://img.shields.io/badge/Morpheus-00FF00?style=flat&logoColor=grean)](https://mor.org/) | Jun 2025 | Private |
-
 ---
+## :crossed_swords: Private Engagements
+
+<table>
+  <tr>
+    <th width="50" align="center">Id</th>
+    <th width="180">Protocol</th>
+    <th width="450">:ledger: Description</th>
+    <th width="110" align="center">:link: Report</th>
+    <th width="110">:date: Date</th>
+    <th width="140">:briefcase: Provider</th>
+  </tr>
+  <tr>
+    <td align="center"><strong>10</strong></td>
+    <td><a href="https://www.snuggle.fi/">Olla</a></td>
+    <td>liquid staking protocol on the Aztec network that allows users to deposit AZTEC tokens into an ERC-4626/ERC-7540 vault.</td>
+    <td align="center">private</td>
+    <td>Apr 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>9</strong></td>
+    <td><a href="https://www.snuggle.fi/">Snuggle</a></td>
+    <td>Zero-swap LP rebalancing on Base and Arbitrum. No swap fees. No slippage. Just yield and passive income.</td>
+    <td align="center">private</td>
+    <td>Apr 2026</td>
+    <td><a href="https://www.snuggle.fi/">Snuggle</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>8</strong></td>
+    <td><a href="https://www.need4audit.xyz/">need4audit</a></td>
+    <td>Web3 security audit marketplace connecting protocols with vetted auditors for on-demand smart contract reviews</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Need4Audit.pdf">Report PDF</a></td>
+    <td>Mar 2026</td>
+    <td><a href="https://www.need4audit.xyz/">need4audit</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>7</strong></td>
+    <td>Opinion</td>
+    <td>Decentralized opinion and sentiment protocol</td>
+    <td align="center">private</td>
+    <td>Mar 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>6</strong></td>
+    <td>Gemint</td>
+    <td>Gemstone-backed NFT minting and tokenization platform</td>
+    <td align="center">private</td>
+    <td>Mar 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>5</strong></td>
+    <td><a href="https://panoptic.xyz/">Panoptic</a></td>
+    <td>Permissionless, oracle-free perpetual options protocol built on Uniswap V3 that enables trading of put and call options by leveraging LP positions as the options primitive</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Panoptic.pdf">Report PDF</a></td>
+    <td>Mar 2026</td>
+    <td><a href="https://panoptic.xyz/">Panoptic</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>4</strong></td>
+    <td><a href="https://univoucher.com/">UniVoucher</a></td>
+    <td>On-chain gift card protocol enabling users to wrap any ERC-20 token into redeemable NFT vouchers for gifting and payments</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/UniVaucher.pdf">Report PDF</a></td>
+    <td>Mar 2026</td>
+    <td><a href="https://univoucher.com/">UniVoucher</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>3</strong></td>
+    <td><a href="https://sendtoemail.io/">Sendtoemail</a></td>
+    <td>Protocol enabling trustless crypto transfers via email address as the recipient identifier, abstracting away wallet complexity</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/SendToEmail.pdf">Report PDF</a></td>
+    <td>Mar 2026</td>
+    <td><a href="https://sendtoemail.io/">Sendtoemail</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>2</strong></td>
+    <td><a href="https://panoptic.xyz/">Panoptic</a></td>
+    <td>Permissionless, oracle-free perpetual options protocol built on Uniswap V3 — core contract security review</td>
+    <td align="center">private</td>
+    <td>Feb 2026</td>
+    <td><a href="https://code4rena.com">Code4rena</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>1</strong></td>
+    <td><a href="https://mor.org/">Morpheus</a></td>
+    <td>Decentralized peer-to-peer network for running AI Smart Agents, connecting users with crypto wallets and Web3 resources via the MOR token incentive layer</td>
+    <td align="center">private</td>
+    <td>Jun 2025</td>
+    <td><a href="https://mor.org/">Morpheus</a></td>
+  </tr>
+</table>
+
 <!--
 **0xSilvermist/0xSilvermist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
